@@ -1,0 +1,59 @@
+﻿MountainPeak,Latitude,Longitude,Photo,Elevation,Prominence,Difficulty,StandardRoute,Distance,ElevationGain
+Mount_Elbert,39.1178,-106.4454,https://www.14ers.com/photos/mtelbert/peakphotos/large/201207_Elbert01.jpg,14440,9093,Class 1,Northeast Ridge,9.5,4700
+Mount_Massive,39.1875,-106.4757,https://www.14ers.com/photos/mtmassive/peakphotos/large/200508_Massive01.jpg,14428,1961,Class 2,East Slopes,14.5,4500
+Mount_Harvard,38.9244,-106.3207,https://www.14ers.com/photos/harvardgroup/peakphotos/large/200706_Harv01.jpg,14421,2360,Class 2,South Slopes,14,4600
+Blanca_Peak,37.5775,-105.4856,https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Blanca01.jpg,14351,5326,Hard Class 2,Northwest Ridge,17,6500
+La_Plata_Peak,39.0294,-106.4729,https://www.14ers.com/photos/laplatapeak/peakphotos/large/201205_Lap01.jpg,14343,1836,Class 2,Northwest Ridge,9.25,4500
+Uncompahgre_Peak,38.0717,-107.4621,https://www.14ers.com/photos/uncompahgrepeak/peakphotos/large/201710_Unco01.jpg,14321,4277,Class 2,South Ridge,7.5,3000
+Crestone_Peak,37.9669,-105.5855,https://www.14ers.com/photos/crestonegroup/peakphotos/large/201607_Crestones01.jpg,14300,4554,Class 3,South Face,14,5700
+Mount_Lincoln,39.3515,-106.1116,https://www.14ers.com/photos/lincolngroup/peakphotos/large/200904_LinBro01.jpg,14293,3862,Class 2,West Ridge,6,2600
+Castle_Peak,39.0097,-106.8614,https://www.14ers.com/photos/castlegroup/peakphotos/large/200807_Cast04.jpg,14279,2365,Hard Class 2,Northeast Ridge,13.5,4600
+Grays_Peak,39.6339,-105.8176,https://www.14ers.com/photos/graystorreys/peakphotos/large/201211_Grays01.jpg,14278,2770,Class 1,North Slopes,8,3000
+Mount_Antero,38.6741,-106.2462,https://www.14ers.com/photos/mtantero/peakphotos/large/201205_Ant01.jpg,14276,2503,Class 2,West Slopes,16,5200
+Torreys_Peak,39.6428,-105.8212,https://www.14ers.com/photos/graystorreys/peakphotos/large/201004_Grays01.jpg,14275,560,Class 2,South Slopes,8,3000
+Quandary_Peak,39.3973,-106.1064,https://www.14ers.com/photos/quandarypeak/peakphotos/large/200701_Quan02.jpg,14271,1125,Class 1,East Ridge,6.75,3450
+Mount_Evans,39.5883,-105.6438,https://www.14ers.com/photos/evansgroup/peakphotos/large/200907_Evans01.jpg,14271,2770,Class 2,West Ridge via Mount Spalding,5,2000
+Longs_Peak,40.255,-105.6151,https://www.14ers.com/photos/longspeak/peakphotos/large/200508_Longs01.jpg,14259,2940,Class 3,Keyhole Route,14.5,5100
+Mount_Wilson,37.8391,-107.9916,https://www.14ers.com/photos/wilsongroup/peakphotos/large/200803_Wils01.jpg,14252,4024,Class 4,North Slopes,16,5100
+Mount_Shavano,38.6192,-106.2393,https://www.14ers.com/photos/shavanogroup/peakphotos/large/200804_Shav01.jpg,14231,1619,Class 2,East Slopes,9,4600
+Mount_Princeton,38.7492,-106.2424,https://www.14ers.com/photos/mtprinceton/peakphotos/large/200904_Prin01.jpg,14204,2177,Class 2,East Slopes,6.5,3200
+Mount_Belford,38.9607,-106.3607,https://www.14ers.com/photos/belfordgroup/peakphotos/large/201204_Belf01.jpg,14203,1337,Class 2,Northwest Ridge,8,4500
+Crestone_Needle,37.9647,-105.5766,https://www.14ers.com/photos/crestonegroup/peakphotos/large/201104_CNeed01.jpg,14203,457,Class 3,South Face,12,4400
+Mount_Yale,38.8442,-106.3138,https://www.14ers.com/photos/mtyale/peakphotos/large/201004_Yale02.jpg,14200,1896,Class 2,Southwest Slopes,9.5,4300
+Mount_Bross,39.3354,-106.1077,https://www.14ers.com/photos/lincolngroup/peakphotos/large/200505_Bross01.jpg,14178,312,Class 2,West Slopes,3.25,2250
+Kit_Carson_Mountain,37.9797,-105.6026,https://www.14ers.com/photos/kitcarsongroup/peakphotos/large/201107_kitcar02.jpg,14171,1025,Easy Class 3,Via Challenger Point,14.5,6250
+Maroon_Peak,39.0708,-106.989,https://www.14ers.com/photos/maroongroup/peakphotos/large/201807_Maro02.jpg,14163,2336,Class 3,South ridge,11.5,4800
+Tabeguache_Peak,38.6255,-106.2509,https://www.14ers.com/photos/shavanogroup/peakphotos/large/201005_Tabe01.jpg,14162,455,Class 2,Via Mount Shavano,11,5600
+Mount_Oxford_Colorado,38.9648,-106.3388,https://www.14ers.com/photos/belfordgroup/peakphotos/large/200508_Oxfo01.jpg,14160,653,Class 2,Via Mount Belford,11,5800
+Mount_Sneffels,38.0038,-107.7923,https://www.14ers.com/photos/mtsneffels/peakphotos/large/200808_Snef23.jpg,14158,3050,Easy Class 3,South Slopes,6,2900
+Mount_Democrat,39.3396,-106.14,https://www.14ers.com/photos/lincolngroup/peakphotos/large/201706_Demo01.jpg,14155,768,Class 2,East Slope,4,2150
+Capitol_Peak,39.1503,-107.0829,https://www.14ers.com/photos/capitolpeak/peakphotos/large/200807_Capi02.jpg,14137,1750,Class 4,Northeast Ridge,17,5300
+Pikes_Peak,38.8405,-105.0442,https://www.14ers.com/photos/pikespeak/peakphotos/large/201506_Pikes01.jpg,14115,5530,Class 1,East Slopes,26,7500
+Snowmass_Mountain,39.1188,-107.0665,https://www.14ers.com/photos/snowmassmtn/peakphotos/large/200907_Snow01.jpg,14099,1152,Hard Class 3,East Slopes,22,5800
+Windom_Peak,37.6212,-107.5919,https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Wind01.jpg,14093,2187,Hard Class 2,West Ridge,17,6000
+Mount_Eolus,37.6218,-107.6227,https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Eolus01.jpg,14090,1024,Class 3,Northeast Ridge,17,6100
+Challenger_Point,37.9804,-105.6066,https://www.14ers.com/photos/kitcarsongroup/peakphotos/large/200707_chal01.jpg,14087,301,Hard Class 2,North Slope,12.5,5400
+Mount_Columbia,38.9039,-106.2975,https://www.14ers.com/photos/harvardgroup/peakphotos/large/201005_Colu01.jpg,14077,893,Class 2,West Slopes,11.5,4250
+Missouri_Mountain,38.9476,-106.3785,https://www.14ers.com/photos/belfordgroup/peakphotos/large/200706_Miss01.jpg,14074,847,Class 2,Northwest Ridge,10.5,4500
+Humboldt_Peak,37.9762,-105.5552,https://www.14ers.com/photos/crestonegroup/peakphotos/large/201607_Humb01.jpg,14070,1204,Class 2,West Ridge,11,4200
+Mount_Bierstadt,39.5826,-105.6688,https://www.14ers.com/photos/evansgroup/peakphotos/large/200607_Bier01.jpg,14065,720,Class 2,West Slopes,7,2850
+Sunlight_Peak,37.6274,-107.5959,https://www.14ers.com/photos/windomgroup/peakphotos/large/200708_Sunl01.jpg,14065,399,Class 4,South Face,17,6000
+Handies_Peak,37.913,-107.5044,https://www.14ers.com/photos/handiespeak/peakphotos/large/200707_Hand03.jpg,14058,1908,Class 1,Southwest Slopes,5.75,2500
+Culebra_Peak,37.1224,-105.1858,https://www.14ers.com/photos/culebrapeak/peakphotos/large/201508_Cule01.jpg,14053,4827,Class 2,Northwest Ridge,5,2700
+Ellingwood_Point,37.5826,-105.4927,https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Elli01.jpg,14048,342,Hard Class 2,South Face,17,6200
+Mount_Lindsey,37.5837,-105.4449,https://www.14ers.com/photos/mtlindsey/peakphotos/large/200606_Lind01.jpg,14048,1542,Easy Class 3,Northwest Gully,8.25,3500
+Little_Bear_Peak,37.5666,-105.4972,https://www.14ers.com/photos/blancagroup/peakphotos/large/200607_Litt01.jpg,14043,377,Class 4,West Ridge and Southwest Face,14,6200
+Mount_Sherman,39.225,-106.1699,https://www.14ers.com/photos/mtsherman/peakphotos/large/201207_Sher02.jpg,14043,850,Class 2,Southwest Ridge,5.25,2100
+Redcloud_Peak,37.941,-107.4219,https://www.14ers.com/photos/redcloudgroup/peakphotos/large/201610_Redc02.jpg,14041,1436,Class 2,Northeast Ridge,9,3700
+Pyramid_Peak,39.0717,-106.9502,https://www.14ers.com/photos/maroongroup/peakphotos/large/200807_Pyra01.jpg,14025,1638,Class 4,Northeast Ridge,8.25,4500
+Wilson_Peak,37.8603,-107.9847,https://www.14ers.com/photos/wilsongroup/peakphotos/large/200604_Wils01.jpg,14023,857,Class 3,Southwest Ridge,10,5000
+San_Luis_Peak,37.9868,-106.9313,https://www.14ers.com/photos/sanluispeak/peakphotos/large/201807_San01.jpg,14022,3113,Class 1,Northeast Ridge,13.5,3600
+Wetterhorn_Peak,38.0607,-107.5109,https://www.14ers.com/photos/wetterhornpeak/peakphotos/large/201106_Wett01.jpg,14021,1635,Class 3,Southeast Ridge,7,3300
+Mount_of_the_Holy_Cross,39.4668,-106.4817,https://www.14ers.com/photos/mtholycross/peakphotos/large/200706_Holy01.jpg,14011,2113,Class 2,North Ridge,12,5600
+Huron_Peak,38.9455,-106.4381,https://www.14ers.com/photos/huronpeak/peakphotos/large/201607_Huro01.jpg,14010,1423,Class 2,Northwest Slopes,6.5,3500
+Sunshine_Peak,37.9228,-107.4256,https://www.14ers.com/photos/redcloudgroup/peakphotos/large/200606_Sun01.jpg,14007,501,Class 2,Via Redcloud Peak,12.25,4800
+Mt._Cameron,39.347165,-106.118501,https://www.14ers.com/photos/lincolngroup/peakphotos/large/200505_Linc01.jpg,14238,158,Class 2,West Ridge,4.75,2250
+El_Diente_Peak,37.839383,-108.005335,https://www.14ers.com/photos/wilsongroup/peakphotos/large/201007_ElD01.jpg,14159,239,Class 3,North Slopes,15,5000
+Conundrum_Peak,39.015682,-106.862749,https://www.14ers.com/photos/castlegroup/peakphotos/large/200807_Cast01.jpg,14060,280,Hard Class 2,Via Castle Peak,14.5,4850
+North_Eolus,37.625192,-107.621187,https://www.14ers.com/photos/windomgroup/peakphotos/large/200607_Eolus01.jpg,14039,199,Class 3,South Ridge,16.75,6000
+North_Maroon_Peak,39.076007,-106.987058,https://www.14ers.com/photos/maroongroup/peakphotos/large/200807_NMar01.jpg,14014,254,Class 4,Northeast Ridge,9.25,4500
