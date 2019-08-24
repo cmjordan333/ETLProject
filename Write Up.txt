@@ -1,21 +1,19 @@
-
+We originally attempted to pull our data from the OpenWeather api and merge the data with alchemy but because of time constraints ultimately chose two different csvs from Kaggle and 14ers.com. We created a new database in pg4. We chose to fill out tables (Mountains and Weather) with an .etl file  in pg4. Our database can be used to reference various 14er data before planning an outdoor activity.
 Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
-Transform: what data cleaning or transformation was required.
-Load: the final database, tables/collections, and why this was chosen.
-Your project must use 2 or more sources of data. We recommend the following sites to use as sources of data:
 1. Kaggle - csv
 2. 14ers - csv
-You can also use APIs or data scraped from the web. However, get approval from your instructor first. Again, there is only a week to complete this!
-API: bf92df9976c606200718381d7f1494 (weather)
-Data Cleanup & Analysis
-1. Found/ Merged CSVs
-2. Remove special characters from csv
-3. Used Pandas Weather API - searches current weather obvervations
-4. Used JSON
-5. had to remove spaces from table names to run script
-6.  transformed the csv by removing hyphens
-Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
-Data Sources: https://openweathermap.org/current, https://openweathermap.org/current,
+API: bf92df9976c606200718381d7f1494 (openweather)
 DATA (cleaning, joining, filtering, aggregating, etc).
+1. Pandas: Multiple CSVs (14ers/ Kaggle)
+    A. Had to remove special characters
+    B. Merged csvs
+    Trial/Error: api, alchemy
+Transform: what data cleaning or transformation was required.
 Production database to load the data into (relational or non-relational).
-Final Table.
+Load: the final database, tables/collections, and why this was chosen.
+2. pg4: Created New DataBase (relational)
+    A. Created an .etl file from our merged data
+    B. Uploaded to a new database pg4
+    C. Determined PK (MountainPeak)
+    Trial/Error - FK originally lat/long and constantly editing erd.
+We chose this route based on group knowledge and time constraints.
